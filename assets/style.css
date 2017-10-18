@@ -45,3 +45,12 @@ a{
 .logo1{
     height:50px;
 }
+.col-xs-6{
+    padding-top:10px;
+}
+.address{
+    border-left: 2px solid black;
+}
+.contact{
+    border-left: 2px solid black;
+}
